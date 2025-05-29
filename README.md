@@ -158,7 +158,6 @@ Distributed under the GNU AGPLv3 License. See `LICENSE.txt` for more information
 ## Contact
 
 <div align="center">
-alt=discord style="margin-bottom: 5px;"/>
   </a> <a href="mailto:dev.aw.qwe@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail:  madangowda0909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
   </a>
